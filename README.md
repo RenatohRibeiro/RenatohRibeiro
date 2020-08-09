@@ -6,6 +6,4 @@
 </a>
 
 
-</a href="https://github.com/RenatohRibeiro">
-<img src="https://github-readme-stats.vercel.app/api?username=renatohribeiro&show_icons=true" alt="renatohribeiro" /> </p>
-</a>
+<a href="https://github.com/RenatohRibeiro"><img src="https://github-readme-stats.vercel.app/api?username=renatohribeiro&show_icons=true" alt="renatohribeiro"></a>
